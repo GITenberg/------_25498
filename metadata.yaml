@@ -1,0 +1,29 @@
+_repo: '------_25498'
+_version: 0.1.0
+alternative_title: Fo Shuo Wu Liang Shou Jing
+contributor:
+  translator:
+    agent_name: Sanghavarman
+    aliases:
+    - Kang Sengkai
+    - 康僧鎧
+    deathdate: 520
+    gutenberg_agent_id: '31378'
+    url: http://www.gutenberg.org/2009/agents/31378
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2008-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25498'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BQ'
+- !lcsh 'Pure Land Buddhism -- Sacred books'
+title: 佛說無量壽經
+url: http://www.gutenberg.org/ebooks/25498
